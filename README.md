@@ -24,4 +24,6 @@ This repository contains various components of the project, organized as follows
   - **`inspecting_precision/`**  
     Focuses on inspecting false positives in greater detail. This notebook provides insights into the precision of the models.
 
-  ** Note: in the models notebooks, the wrong test data was loaded in, leading to the wrong length when len(test) was printed. In the **`results and error analysis`** notebook, all models have their final evalutation that is described in the results section of the thesis.
+
+
+   ** Note: in the models notebooks, the wrong test data was loaded in, leading to the wrong length when len(test) was printed. In the **`results and error analysis`** notebook, all models have their final evalutation that is described in the results section of the thesis. The right test set is loaded in and its length is printed in this notebook. 
